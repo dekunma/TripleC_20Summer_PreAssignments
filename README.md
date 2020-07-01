@@ -4,10 +4,10 @@
 我们会以due date之前你的最后一次commit作为参考标准
 
 ### Assignment列表
-- [静态网页 (HTML+CSS)](https://...)
-- [网站前端 (React.js)](https://...)
-- [网站后端 (Express.js + MongoDB)](https://...)
-- [移动软件开发](https://...)
+- [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)
+- [网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter)
+- [网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter)
+- [移动软件开发](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Mobile-App-Starter)
 
 ### 规则
 每位同学根据自己想学习的技术栈，以及想加入的项目，选择一个Assignment完成  
