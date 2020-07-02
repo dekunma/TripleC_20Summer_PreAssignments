@@ -11,11 +11,11 @@
 代码写了多少交多少就可以，我们会根据完成情况酌情考虑
 
 ## 项目简介：
-在本次项目中，你将用HTML和CSS完成三个页面：  
+在本次项目中，你将用HTML和CSS完成以下三个页面：  
 - WireFrame页面
 ![wireframe](./images/pic1.png)  
   
-- 登录界面
+- 登录页面
 ![login](./images/pic2.png)
 
 - 你自己的个人简介页面，比如：
@@ -70,7 +70,7 @@
 - 所有部件应像设计图中一样，保持视觉上的居中和平衡
 
 ## 具体说明：个人简介页面
-我们对这个页面没有任何要求  
+我们对这个页面**没有任何具体要求**  
 用你在前两个页面里学到的技能做一个自己的个人介绍页面就可以  
   
 实在不知道做什么可以参考 [www.dekun.me](https://www.dekun.me) (一年多没更新了)
@@ -80,7 +80,7 @@
 
 ## 其他说明
 1. 所有页面请尽可能与[设计图](https://www.figma.com/file/x2din21LcGqaP7zYyShSzN/TripleC_Summer20_HTML?node-id=0%3A1)中的长得一样，不用在意功能  
-2. 可以用包括但不限于```BootStrap```, ```semantic ui```的任意UI库来完成
+2. 可以使用包括但不限于```BootStrap```, ```semantic ui```的任意UI库来完成
 
 
 ## 项目完成之后

@@ -7,25 +7,22 @@
 - [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)
 - [网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter)
 - [网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter)
-- [移动软件开发](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Mobile-App-Starter)
 
 ## 规则
 每位同学根据自己想学习的技术栈，以及想加入的项目，选择一个Assignment完成  
   
 完成 [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter) 后，可能加入的Project依概率排序为：Official Webiste > FeatX前端组  
 完成 [网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter) 后，可能加入的Project依概率排序为：FeatX前端组 > 其他网页组 > Unsea 前端运维组  
-完成 [网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter) 后，可能加入的Project依概率排序为：FeatX后端组 > 其他网页后端组 > Unsea 前端运维组  
-完成 [移动软件开发](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Mobile-App-Starter) 后，可能加入的Project为 Xplore UCSD  
+完成 [网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter) 后，可能加入的Project依概率排序为：FeatX后端组 > 其他网页后端组 > Unsea 前端运维组   
   
 ### 可以学习到的技能：
 [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)： Brackets软件的使用； 用HTML和CSS编写小型静态网页  
-[网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter)： React.js的写法；npm的基础使用方法；API的调用方法；如何开发中型交互式网站  
+[网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter)： React.js的写法；API的调用方法；如何开发中型交互式网站  
 [网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter)： Insomnia软件的使用方法；MongoDB；mongoose；Express.js；如何开发网站后端  
-[移动软件开发](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Mobile-App-Starter)：根据你选择的不同，学习如何开发Android或IOS软件
 
   
 ### 难度顺序：  
-[移动软件开发](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Mobile-App-Starter) >[网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter) > [网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter) > [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)  
+[网站后端 (Express.js + MongoDB)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/Express-starter) > [网站前端 (React.js)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/weather-app-starter) > [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)  
 
 ## 关于提问
 本项目为 **选拔项目** 而不是 **教育项目**  

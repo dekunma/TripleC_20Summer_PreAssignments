@@ -4,8 +4,18 @@
 我们会以due date之前你的最后一次commit作为参考标准
 
 ## 开始之前
-推荐已经掌握HTML和部分JavaScript的同学选择此Assignment  
-如果对HTML和JS完全没有了解，建议移步 [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)  
+
+在开始之前，请确保你对以下知识有一定了解：
+- HTML
+- CSS
+- JavaScript
+- Http Request  
+- 什么是API
+- 什么是JSON  
+- npm (会最基础的使用方法即可)
+
+如果上述条目中有任意一个完全不知道，请先自学，或移步
+ [静态网页 (HTML+CSS)](https://github.com/dekunma/TripleC_20Summer_PreAssignments/tree/master/HTML-starter)  
 
 这不是一个轻松的项目，我们也不expect你能在两个月内完整完成这个项目  
 部分完成项目不代表失去选拔资格  
@@ -14,7 +24,7 @@
 
 ## 项目简介：
 在本次项目中，你将用React，调用 openweathermap.org 的 API, 来完成一个天气预报的网站  
-完成后具体Example请参考 [weather.ucsdtriplec.org](https://weather.ucsdtriplec.org)  
+Example请参考 [weather.ucsdtriplec.org](https://weather.ucsdtriplec.org)  （你做的不需要长得跟这个网站完全一样）
 ![weather app](./images/pic1.png)  
 
 ## Get Started
@@ -37,14 +47,15 @@
 ## TODO：
 1. 写```AboutScreen```，在页面里简单介绍这个项目。具体要求见```AboutScreen```顶上的注释
 
-2. 完成```ForCastScreen```，要求与[weather.ucsdtriplec.org/forcast](https://weather.ucsdtriplec.org/forcast) 功能一致。在右上角搜索框输入城市的英文名并点击Search后，页面上的名字和国家会发生相应改变，且页面中生成40张卡片，每张卡片储存3个小时的天气数据
-3. 完成```WeatherScreen```，要求与[weather.ucsdtriplec.org/weather](https://weather.ucsdtriplec.org/weather)功能一致。在右上角输入城市英文名并点击Add后，页面上会添加一张card，显示该城市当前的天气数据。
+2. 完成```ForcastScreen```，要求与[weather.ucsdtriplec.org/forcast](https://weather.ucsdtriplec.org/forcast) 功能一致。在右上角搜索框输入城市的英文名并点击Search后，页面上的名字和国家会发生相应改变，且页面中生成40张卡片，每张卡片储存3个小时的天气数据。（API获取到的数据里直接就有后面120个小时的天气数据，已经放在了一个长度为40的array里，不需要自己手动来分）
+3. 完成```WeatherScreen```，要求与[weather.ucsdtriplec.org/weather](https://weather.ucsdtriplec.org/weather)功能一致。在右上角输入城市英文名并点击Add后，页面上会添加一张Card，显示你添加的城市当前的天气数据。（Card不一定要是与```ForcastScreen```的Card是同一个Card，可以在```components```目录里新建另一种Card组件）
 
 ## 其他说明
-1. 所有页面不一定要与[示例页面](https://weather.ucsdtriplec.org)长得一样。只要功能一样即可。
+1. 所有页面***不需要***与[示例页面](https://weather.ucsdtriplec.org)长得一样。只要功能一样即可。
 
-2. 可以用包括但不限于```BootStrap```, ```semantic ui```的任意UI库来完成
+2. 可以使用包括但不限于```BootStrap```, ```semantic ui```的任意UI库来完成
 3. 建议开始之前认真研究一下调用api返回的数据，参考```openweathermap.org```的[官方文档](https://openweathermap.org/)
+4. API获取每天有1000次的限制，如果在配置正确的情况下无法获取数据，可能是已经超过上限了。
 
 ## 项目完成之后
 请将代码上传至自己github的repo，并将repo链接发至 ```William@dekun.me```  
