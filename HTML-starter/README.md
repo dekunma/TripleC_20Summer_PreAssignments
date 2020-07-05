@@ -33,6 +33,7 @@
    ![index.html](./images/pic6.png)
 
 ## 学习HTML和CSS
+- **记得HTML和CSS都要学**
 - [W3Schools](https://www.w3schools.com/html/default.asp)
 - B站和Youtube上面随便搜一搜，多得很
 

@@ -33,7 +33,8 @@
 1. clone或download这个repo到本地  
 2. 安装[node.js](https://nodejs.org/)（会自动安装npm）
 3. 安装```MongoDB```或在[MongoAtlas](https://cloud.mongodb.com)注册并创建MongoDB数据库  
-   **MongoDB的安装方法或MongoAtlas的使用方法请自行上网查询**
+   **MongoDB的安装方法或MongoAtlas的使用方法请自行上网查询**  
+   MongoAtlas的使用方法也可以结合这个教程学习：[教程](https://www.youtube.com/watch?v=KKyag6t98g8)
 4. ```cd```进入```Express-starter```这个文件夹
 5. shell / terminal执行 ```npm install```  
 6. 成功后，进入```config```文件夹中的```default.js```，把```mongodb_key```改成你的MongoDB connection string
@@ -62,6 +63,9 @@
 ## 学习Express.js，Mongoose和MongoDB
 - [Express官方文档](https://expressjs.com/)
 - [Mongoose官方文档](https://mongoosejs.com/)
+- [Express Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)
+- [Express+Mongoose](https://www.youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp)
+- [MongoAtlas](https://www.youtube.com/watch?v=KKyag6t98g8)
 - 其他Express.js，Mongoose，和MongoDB的教程请自行上网查找
 
 这些教程仅供参考  
