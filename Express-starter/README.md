@@ -1,7 +1,12 @@
 # Triple C 2020 Summer / Fall 选拔 Assignment: Express.js + MongoDB
 
-**Due date: 2020年8月31日 11:59 PM**  
+**Due date: 2020年8月16日 11:59 PM (你的当地时间)**  
 我们会以due date之前你的最后一次commit作为参考标准
+
+**Check point: 2020年7月26日11:59PM (你的当地时间)**  
+我们会在check point检查一次你的进度  
+不用紧张，这只是为了防止你在check point的时候还什么都没开始做  
+不管进度如何，只要你开始着手做/学习了项目，则不会对你本次评估造成任何影响
 
 ## 开始之前
 在开始之前，请确保你对以下知识有一定了解：
