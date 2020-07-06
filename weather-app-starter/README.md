@@ -62,8 +62,9 @@ Example请参考 [weather.ucsdtriplec.org](https://weather.ucsdtriplec.org)  （
 3. 建议开始之前认真研究一下调用api返回的数据，参考```openweathermap.org```的[官方文档](https://openweathermap.org/)
 4. API获取每天有1000次的限制，如果在配置正确的情况下无法获取数据，可能是已经超过上限了。
 
-## 项目完成之后
-请将代码上传至自己github的repo，并将repo链接发至 ```William@dekun.me```  
+## 项目完成之后  
+请新建一个**private**的Github repo，将代码上传至此处，并邀请账号```dekunma```加入   
+或直接将代码打包发至```William@dekun.me```  
 我们会在完成对你代码的简单评估之后，针对你做的项目，对你进行面试
 
 ## 其他任何问题

@@ -89,8 +89,9 @@
 2. 可以使用包括但不限于```BootStrap```, ```semantic ui```的任意UI库来完成
 
 
-## 项目完成之后
-请将代码上传至自己github的repo，并将repo链接发至 ```William@dekun.me```  
+## 项目完成之后  
+请新建一个**private**的Github repo，将代码上传至此处，并邀请账号```dekunma```加入   
+或直接将代码打包发至```William@dekun.me```  
 我们会在完成对你代码的简单评估之后，针对你做的项目，对你进行面试
 
 ## 其他任何问题
