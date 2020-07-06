@@ -79,7 +79,8 @@
 我们对这个页面**没有任何具体要求**  
 用你在前两个页面里学到的技能做一个自己的个人介绍页面就可以  
   
-实在不知道做什么可以参考 [www.dekun.me](https://www.dekun.me) (一年多没更新了)
+实在不知道做什么可以参考 [www.dekun.me](https://www.dekun.me) (一年多没更新了)  
+以及 [li-mao.net](https://li-mao.net) （懋哥的个人网站）
 
 ## TODO：
 完成上面提到的三个页面
