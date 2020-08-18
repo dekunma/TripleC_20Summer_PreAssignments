@@ -200,7 +200,7 @@
     直接给👴整变性了  
 
 ## 其他说明
-- 开始之前请认真学习JavaScr，Express，MongoDB，和Mongoose的基础。不然这个项目会让你相当痛苦
+- 开始之前请认真学习JavaScript，Express，MongoDB，和Mongoose的基础。不然这个项目会让你相当痛苦
 
 ## 项目完成之后  
 请新建一个**private**的Github repo，将代码上传至此处，并邀请账号```dekunma```加入   
