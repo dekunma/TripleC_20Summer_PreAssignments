@@ -60,7 +60,8 @@
 - 输入框右边的两个是```button```，点击之后不需要发生任何事件
 - 再往右的sign in是```link```，点击之后任意跳转到哪都行
 - 左边```Top Departments```那一竖条是一个```unordered list```
-- 最下面```Show All```和```Show More```是```button```，点击之后不需要发生任何事件
+- 最下面```Show All```和```Show More```是```button```，点击之后不需要发生任何事件 
+- **页面需要对其他尺寸的屏幕有一定的自适应性（不能所有部件都用position absolute + 特定长宽来调整）**
 
 ## 具体说明：Page-2-Sign In
 在此处查看Sign In Page的[设计图](https://www.figma.com/file/x2din21LcGqaP7zYyShSzN/TripleC_Summer20_HTML?node-id=0%3A1) 
@@ -73,7 +74,8 @@
 - 下面的```Sign In```是```button```，点击之后不需要发生任何事件
 - 点击左上角的```Triple C```之后需要跳转到```https://ucsdtriplec.org```
 - 最下面```WeChat```和```Github```是两个icon，要求点击之后可以跳转到某一个你自己指定的网页
-- 所有部件应像设计图中一样，保持视觉上的居中和平衡
+- 所有部件应像设计图中一样，保持视觉上的居中和平衡  
+- **页面需要对其他尺寸的屏幕有一定的自适应性（不能所有部件都用position absolute + 特定长宽来调整）**
 
 ## 具体说明：个人简介页面
 我们对这个页面**没有任何具体要求**  
